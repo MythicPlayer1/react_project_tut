@@ -1,0 +1,35 @@
+.mainContainer{
+    display: flex;
+    justify-content: space-between;
+    height: 30px;
+    align-items: center;
+    justify-items: center;
+    padding: 7px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.75);
+    background-color: azure;
+    margin:2px;
+    width: 70%;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+   
+    width: 800px;
+    padding: 7px;
+    font-size: 25px;
+    
+    
+}
+.pricebtn{
+    font-size: 20px;
+    background-color: rgb(241, 156, 156);
+    border-radius: 6px;
+    width: 3em;
+    text-align: center;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.75);
+
+}
+

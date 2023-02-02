@@ -1,0 +1,22 @@
+
+
+.main{
+  padding:10px;
+  display:flex;
+  width: auto;
+  background-color: #dadada;
+  margin: 5px;
+  border-radius: 5px;
+  align-items: center;
+  justify-items:center ;
+
+
+}
+.main-Container{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+
+}

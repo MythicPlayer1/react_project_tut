@@ -1,0 +1,10 @@
+.cards{
+    background: orange;
+    display: flex;
+    justify-items: center;
+}
+.expenses{
+   padding-left: 350px;
+    
+}
+    

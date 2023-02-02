@@ -1,0 +1,9 @@
+.NewExpenses{
+    /*background: rgb(170, 193, 215);*/
+    width: auto;
+    height: 200px;
+    margin: 5px;
+    display: flex;
+    justify-items: center;
+
+}
